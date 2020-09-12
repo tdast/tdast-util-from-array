@@ -1,6 +1,6 @@
 {
   "name": "tdast-util-from-array",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "tdast utility to transform a JS array into tdast",
   "license": "MIT",
   "homepage": "https://github.com/tdast/tdast-util-from-array",
